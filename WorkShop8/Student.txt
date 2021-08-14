@@ -1,0 +1,20 @@
+Name: HoangTungLam
+Age:18
+Mark: 9
+-----------------
+Name: NguyenThuyLinh
+Age:20
+Mark: 8
+-----------------
+Name: NguyenThanhNam
+Age:21
+Mark: 9
+-----------------
+Name: Kinh
+Age: 10
+Mark: 2
+-----------------
+Name: Lan
+Age: 16
+Mark: 8
+-----------------
